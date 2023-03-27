@@ -11,4 +11,8 @@ export class ShoppingListComponent {
     new Ingredient('Vanilla Yogurt', 5),
     new Ingredient('Peanut Butter', 1),
   ];
+
+  onIngredientAdded(ingredient: Ingredient) {
+    this.ingredients.push(ingredient);
+  }
 }
