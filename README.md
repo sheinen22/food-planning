@@ -5,3 +5,8 @@ Create a user by entering an email and a password, then clicking "sign up." From
 # Deployed App Link:
 
 https://food-planning-40675.web.app
+
+# Future Notes:
+
+* I want to add a pantry tab and a "cook recipe" button and eventually turn this into an inventory system type of app.
+* Possibly pull in a recipes API where I can search for recipes based on the ingredients I have in the pantry, show full recipes, recipes that I need one more ingredient for, recipes that I need two more ingredients for, etc.
